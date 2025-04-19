@@ -38,7 +38,7 @@ open index.html   # or use Live Server in VS Code
 
 ## ✨ Preview
 
-![Smoke Heart Preview](https://github.com/your-username/Smoke-Heart/blob/main/preview.png?raw=true)
+![Smoke Heart Preview](Preview.png)
 
 ---
 
