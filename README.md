@@ -1,4 +1,4 @@
-# 💖 Smoke Heart - Animated Portfolio
+# 💖 Smoke Heart - Animated Heart
 
 Welcome to **Smoke Heart**, a creative animated canvas project built with HTML5, JavaScript, and CSS. This interactive animation displays a pulsating heart shape made from particles, accompanied by a warm greeting message — all rendered on a canvas element.
 
